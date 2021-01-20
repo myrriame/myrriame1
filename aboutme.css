@@ -1,0 +1,82 @@
+
+h1 {
+    color: #f4b994;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 500px;
+    margin: auto;
+}
+b{
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 50px; 
+    font-weight: bold; 
+    letter-spacing: -2px; 
+    line-height: 1; 
+    text-align: center;
+}
+body {
+    background-image: none;
+    background-color: black;
+    border-radius: 25px;
+    background: #white;
+    padding: 20px;
+    width: 800px;
+    height: 500px;
+    opacity: 0.8;
+    max-width: 500px;
+    margin: auto;
+}
+
+.job-title {
+    font-size: 20px;
+    color: rgb(233, 223, 223);
+    font-family: 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+.box-title {
+    color: #c6d8dd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+/* h1{ */
+        /* background-image:  */
+        /* url("https://freight.cargo.site/w/2200/q/75/i/76a2ab4d25433a0420afeec40e7cc209e27b46d955b8724bd60d2b70c684868a/Fields43-UnchartedTerritories.jpg"); */
+/* } */
+.box-description {
+    font-size: 14px;
+    color: black;
+    background-image: none;
+    background-color: white;
+    border-radius: 25px;
+    background: #white;
+    padding: 20px;
+    width: 375px;
+    height: 150px;
+    opacity: 0.75;
+    max-width: 500px;
+    margin: auto;
+  }
+footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f4b994;
+}
+  /* footer{ */
+    /* background-image:  */
+    /* url("http://www.diptyqueparis-memento.com/wp-content/uploads/2017/11/ESAHubble-the-constellation-Taurus-as-photographed-by-the-avid-astrophotographer-Akira-Fujii.jpg"); */
+/* } */
+body{
+    
+    background-image: 
+    url("https://cdn.shopify.com/s/files/1/0787/5255/products/orange-standard-baggu-2_1024x1024.jpg?v=1596648965");
+}
+h4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 500px;
+    margin: auto;
+}
